@@ -2,8 +2,11 @@ body {
 	background-color: #99ccff;
 }
 
-ul {
+ul#nav-bar {
 	background-color: #262626;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
 li#nav-list {
