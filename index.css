@@ -1,6 +1,13 @@
+body {
+	background-color: #99ccff;
+}
+
 ul {
 	list-style-type: none;
 	background-color: #262626;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 
 li {
