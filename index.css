@@ -6,6 +6,12 @@ ul {
 	background-color: #262626;
 }
 
+li#nav-list {
+	color: white;
+	font-family: 'Barlow';
+	font-size: 22px;
+}
+
 h1 {
 	color: #FFFFFF;
 }
