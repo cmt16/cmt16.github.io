@@ -9,10 +9,15 @@ ul {
 	background-color: #262626;
 }
 
-li#nav-list {
+li {
+	float: left;
 	color: white;
 	font-family: 'Barlow';
 	font-size: 22px;
+}
+
+li a:hover {
+  background-color: #111;
 }
 
 h1 {
